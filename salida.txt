@@ -1,0 +1,6 @@
+ 
+Por favor, ingrese la longitud de la base del rectángulo
+3
+Por favor, ingrese la longitud de la altura del rectángulo
+4.5
+El perímetro del rectángulo es: 15
